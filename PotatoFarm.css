@@ -224,7 +224,7 @@ div.product div.gallery div.image {
  }
 
  label:hover {
-  bakground: #eee;
+  background: #eee;
   transition: 200ms linear all;
 }
 
@@ -356,7 +356,6 @@ div.container.tabs label {
   padding: 10px;
   border-radius: 2px;
   -webkit-border-radius: 4px;
-  font-size: 3vmin;
 }
 
 div.container.tabs label {
